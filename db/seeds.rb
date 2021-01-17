@@ -7,4 +7,4 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 Article.create ({title: '新しい記事', content: '新しい記事です。これは大変素晴らしい。' })
-Article.create  ({title: '素晴らしい記事', content: '嗚呼嗚呼ああ' })
+Article.create ({title: '素晴らしい記事', content: '嗚呼嗚呼ああ' })
